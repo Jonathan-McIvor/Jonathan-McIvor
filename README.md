@@ -9,7 +9,7 @@ const whoAmI = {
                  'Photography',
                  'Formula 1',
                  'Adventure Seeker',
-                 'DIY / Putting holes in walls & furniture'
+                 'Music'
                ],
     getCity : () => 'Glasgow, United Kingdom',
     code : () => {
