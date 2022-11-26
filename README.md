@@ -4,7 +4,7 @@
 ```javascript
 const whoAmI = {
     user : `Jonathan McIvor`,
-    occupation : `In training at QA with aim to become a ServiceNow specialist within Accenture`,
+    occupation : `I am a ServiceNow specialist within Accenture`,
     hobbies : [
                  'Photography',
                  'Formula 1',
@@ -13,8 +13,7 @@ const whoAmI = {
                ],
     getCity : () => 'Glasgow, United Kingdom',
     code : () => {
-        CurrentlyLearning(); // Basics - [Linux, Python, HTML, CSS, Javascript, SQL, Selenium]
-        Experience(); // Entry-Level
+        CurrentlyLearning(); // [Linux, Python, HTML, CSS, Javascript, SQL, Selenium]
        }
 }
 ```
