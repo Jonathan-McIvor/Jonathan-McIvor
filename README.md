@@ -6,7 +6,6 @@ const whoAmI = {
     user : `Jonathan McIvor`,
     occupation : `I am a ServiceNow specialist within Accenture`,
     hobbies : [
-                 'Photography',
                  'Formula 1',
                  'Adventure Seeker',
                  'Music'
